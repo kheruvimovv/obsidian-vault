@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "549d94f88007779d",
+  "active": "4e31191aa65b6b6b",
   "lastOpenFiles": [
-    "Микрофронтенд.md",
     "Diff.md",
+    "Микрофронтенд.md",
     "Webpack/Webpack.md",
     "Webpack",
     "Angular/Сборка Angular приложения.md",
