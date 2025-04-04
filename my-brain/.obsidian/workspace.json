@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Микрофронтенд.md",
+                "file": "Webpack/Интересные моменты пока выполнял getting started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Микрофронтенд"
+              "title": "Интересные моменты пока выполнял getting started"
             }
           },
           {
@@ -199,9 +199,10 @@
   },
   "active": "4e31191aa65b6b6b",
   "lastOpenFiles": [
-    "Diff.md",
-    "Микрофронтенд.md",
     "Webpack/Webpack.md",
+    "Webpack/Интересные моменты пока выполнял getting started.md",
+    "Микрофронтенд.md",
+    "Diff.md",
     "Webpack",
     "Angular/Сборка Angular приложения.md",
     "Angular",
