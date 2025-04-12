@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Микрофронтенд.md",
+                "file": "Webpack/Интересные моменты пока выполнял getting started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Микрофронтенд"
+              "title": "Интересные моменты пока выполнял getting started"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +197,25 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "4c8d838ac11ad9cb",
   "lastOpenFiles": [
     "Diff.md",
     "JavaScript.md",
     "Микрофронтенд.md",
     "Как учить микрофронтенд.md"
+=======
+  "active": "4e31191aa65b6b6b",
+  "lastOpenFiles": [
+    "Webpack/Webpack.md",
+    "Webpack/Интересные моменты пока выполнял getting started.md",
+    "Микрофронтенд.md",
+    "Diff.md",
+    "Webpack",
+    "Angular/Сборка Angular приложения.md",
+    "Angular",
+    "create a link.md",
+    "2025-03-30.md"
+>>>>>>> 251f1b2e51d722987a32499bc84964731365a00f
   ]
 }
