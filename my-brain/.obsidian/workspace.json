@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "01d02a31100f7bb0",
+    "id": "767312c53f92baa6",
     "type": "split",
     "children": [
       {
-        "id": "810bd490e08c028a",
+        "id": "ef0602192b528a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb62a7befa1a3ec6",
+            "id": "042ccb16091772d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webpack/Интересные моменты пока выполнял getting started.md",
+                "file": "Лекция GS/План послайдовый.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интересные моменты пока выполнял getting started"
-            }
-          },
-          {
-            "id": "f0ab21be71e68fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Микрофронтенд.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Микрофронтенд"
-            }
-          },
-          {
-            "id": "4c8d838ac11ad9cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webpack/Webpack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Webpack"
+              "title": "План послайдовый"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d0fb8948aa1277e4",
+    "id": "c2fb36b8e1c11c5d",
     "type": "split",
     "children": [
       {
-        "id": "ad784cf81f361c22",
+        "id": "330c8deb0b76ec66",
         "type": "tabs",
         "children": [
           {
-            "id": "8c07664d28057080",
+            "id": "6f0a7a21523d564c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "aaead4695f2c8741",
+            "id": "b6f7e9108c73b5d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "3522f1e1fa4010fa",
+            "id": "d30d731ba42caa3f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "2696804e992467a5",
+    "id": "b98f180a24386e34",
     "type": "split",
     "children": [
       {
-        "id": "bb6a2eaa98dd0b38",
+        "id": "d25a7a30736d3406",
         "type": "tabs",
         "children": [
           {
-            "id": "cdcdd47095910d3f",
+            "id": "cf9086f0588cfe2b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Микрофронтенд.md",
+                "file": "Лекция GS/План послайдовый.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Микрофронтенд"
+              "title": "Backlinks for План послайдовый"
             }
           },
           {
-            "id": "c55e2a5f38fe5ce4",
+            "id": "3a3da3037b6c2b0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Микрофронтенд.md",
+                "file": "Лекция GS/План послайдовый.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Микрофронтенд"
+              "title": "Outgoing links from План послайдовый"
             }
           },
           {
-            "id": "7c8f62944b9f9c67",
+            "id": "9eaf314b735d9c85",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,18 +137,18 @@
             }
           },
           {
-            "id": "94691c48fc1d5bce",
+            "id": "1ce2bd8d6cda4e7f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Микрофронтенд.md",
+                "file": "Лекция GS/План послайдовый.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Микрофронтенд"
+              "title": "Outline of План послайдовый"
             }
           }
         ]
@@ -197,25 +168,29 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "4c8d838ac11ad9cb",
+  "active": "042ccb16091772d4",
   "lastOpenFiles": [
-    "Diff.md",
-    "JavaScript.md",
-    "Микрофронтенд.md",
-    "Как учить микрофронтенд.md"
-=======
-  "active": "4e31191aa65b6b6b",
-  "lastOpenFiles": [
-    "Webpack/Webpack.md",
-    "Webpack/Интересные моменты пока выполнял getting started.md",
-    "Микрофронтенд.md",
-    "Diff.md",
-    "Webpack",
+    "Лекция GS/ppt6934.tmp",
+    "Лекция GS/images/angular_black.png",
+    "Лекция GS/images/Angular_icon.svg",
+    "Лекция GS/images/Не подтверждено 798545.~",
+    "Лекция GS/images/angular_gradient.png",
+    "Лекция GS/~$Сборка Angular приложения.pptx",
+    "Лекция GS/images/6165241.jpg",
+    "Лекция GS/Сборка Angular приложения.pptx",
+    "ppt3DF6.tmp",
+    "Лекция GS/images",
+    "images",
+    "Новая папка",
+    "~$Сборка Angular приложения.pptx",
+    "Лекция GS/План основной.md",
     "Angular/Сборка Angular приложения.md",
-    "Angular",
-    "create a link.md",
-    "2025-03-30.md"
->>>>>>> 251f1b2e51d722987a32499bc84964731365a00f
+    "Webpack/Интересные моменты пока выполнял getting started.md",
+    "Webpack/Webpack.md",
+    "2025-04-12.md",
+    "Untitled.canvas",
+    "Как учить микрофронтенд.md",
+    "Лекция GS/План послайдовый.md",
+    "Сборка Angular приложения.pptx"
   ]
 }
