@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "SSR/План лекции.md",
+=======
+                "file": "Angular/Сборка Angular приложения.md",
+>>>>>>> 6f14a96bd53d91d45315c1ee0cbc99fbaf1cac22
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "План лекции"
+=======
+              "title": "Сборка Angular приложения"
+>>>>>>> 6f14a96bd53d91d45315c1ee0cbc99fbaf1cac22
             }
           }
         ]
@@ -170,6 +178,7 @@
   },
   "active": "042ccb16091772d4",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "SSR/Статьи по теме.md",
     "SSR/План лекции.md",
     "Untitled.md",
@@ -196,12 +205,34 @@
     "Лекция GS/ppt5D2D.tmp",
     "Лекция GS/ppt662F.tmp",
     "Webpack/Интересные моменты пока выполнял getting started.md",
+=======
+    "Angular/Custom builder.md",
+    "Angular/Сборка Angular приложения.md",
+    "Webpack/Интересные моменты пока выполнял getting started.md",
+    "Webpack/Webpack.md",
+    "Микрофронтенд.md",
+    "Как учить микрофронтенд.md",
+    "Лекция GS/План послайдовый.md",
+    "Лекция GS/pptB1E6.tmp",
+    "Лекция GS/pptC31B.tmp",
+    "Лекция GS/~$Сборка Angular приложения.pptx",
+    "Лекция GS/План основной.md",
+    "Лекция GS/ppt5D2D.tmp",
+    "Лекция GS/ppt662F.tmp",
+    "Diff.md",
+    "JavaScript.md",
+>>>>>>> 6f14a96bd53d91d45315c1ee0cbc99fbaf1cac22
     "Лекция GS/pptA0BC.tmp",
     "Лекция GS/pptDC83.tmp",
     "Лекция GS/ppt72B1.tmp",
     "Лекция GS/pptE2F4.tmp",
     "Лекция GS/images/rollup-logo.svg",
     "Лекция GS/images/Angular_icon.svg",
+<<<<<<< HEAD
     "2025-04-12.md"
+=======
+    "2025-04-12.md",
+    "Untitled.canvas"
+>>>>>>> 6f14a96bd53d91d45315c1ee0cbc99fbaf1cac22
   ]
 }
