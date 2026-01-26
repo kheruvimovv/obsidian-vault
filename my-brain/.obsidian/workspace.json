@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекция GS/План послайдовый.md",
+                "file": "SSR/План лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План послайдовый"
+              "title": "План лекции"
             }
           }
         ]
@@ -170,35 +170,38 @@
   },
   "active": "042ccb16091772d4",
   "lastOpenFiles": [
+    "SSR/Статьи по теме.md",
+    "SSR/План лекции.md",
+    "Untitled.md",
+    "SSR",
+    "Angular/Custom builder.md",
+    "2026-01-25.md",
+    "Untitled.canvas",
+    "Angular/Сборка Angular приложения.md",
+    "Лекция GS/images/6165241.jpg",
+    "Лекция GS/images/angular_black.png",
+    "Лекция GS/images/angular_gradient.png",
+    "Лекция GS/images/rollup-logo.png",
+    "Лекция GS/images/rspack-logo.svg",
+    "Лекция GS/План послайдовый.md",
+    "Лекция GS/План основной.md",
+    "JavaScript.md",
+    "Diff.md",
+    "Микрофронтенд.md",
+    "Как учить микрофронтенд.md",
     "Лекция GS/pptB1E6.tmp",
     "Лекция GS/pptC31B.tmp",
     "Лекция GS/~$Сборка Angular приложения.pptx",
-    "Лекция GS/План основной.md",
-    "Angular/Сборка Angular приложения.md",
     "Webpack/Webpack.md",
     "Лекция GS/ppt5D2D.tmp",
     "Лекция GS/ppt662F.tmp",
-    "Лекция GS/План послайдовый.md",
-    "Diff.md",
-    "JavaScript.md",
-    "Микрофронтенд.md",
-    "Как учить микрофронтенд.md",
     "Webpack/Интересные моменты пока выполнял getting started.md",
-    "Angular/Custom builder.md",
     "Лекция GS/pptA0BC.tmp",
     "Лекция GS/pptDC83.tmp",
     "Лекция GS/ppt72B1.tmp",
-    "Лекция GS/images/rollup-logo.png",
-    "Лекция GS/images/rspack-logo.svg",
-    "Лекция GS/images/angular_gradient.png",
-    "Лекция GS/images/angular_black.png",
-    "Лекция GS/images/6165241.jpg",
     "Лекция GS/pptE2F4.tmp",
     "Лекция GS/images/rollup-logo.svg",
-    "Лекция GS/ppt6934.tmp",
     "Лекция GS/images/Angular_icon.svg",
-    "Лекция GS/images/Не подтверждено 798545.~",
-    "2025-04-12.md",
-    "Untitled.canvas"
+    "2025-04-12.md"
   ]
 }
